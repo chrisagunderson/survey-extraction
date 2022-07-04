@@ -4,4 +4,4 @@ This [python script](https://github.com/chrisagunderson/survey-extraction/blob/m
 
 Data is sometimes stored in `.zip` files but contains more information or files than what is needed for a project. The goal here was to compile each of the survey responses from different participants so their responses could be analyzed in aggregate.
 
-See https://chrisagunderson.github.io/survey-extraction/ for instructions on running the script.
+For instructions on running the script, see https://chrisagunderson.github.io/survey-extraction/
